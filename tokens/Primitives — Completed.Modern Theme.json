@@ -24,7 +24,9 @@
           "scopes": [
             "ALL_SCOPES"
           ],
-          "codeSyntax": {}
+          "codeSyntax": {
+            "ANDROID": "spacing/2/android"
+          }
         }
       }
     },

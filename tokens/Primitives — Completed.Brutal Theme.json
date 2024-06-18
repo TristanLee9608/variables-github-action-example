@@ -16,7 +16,7 @@
     },
     "2": {
       "$type": "number",
-      "$value": 16,
+      "$value": 40,
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -24,7 +24,9 @@
           "scopes": [
             "ALL_SCOPES"
           ],
-          "codeSyntax": {}
+          "codeSyntax": {
+            "ANDROID": "spacing/2/android"
+          }
         }
       }
     },
