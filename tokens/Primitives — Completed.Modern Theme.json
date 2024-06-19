@@ -10,7 +10,10 @@
           "scopes": [
             "ALL_SCOPES"
           ],
-          "codeSyntax": {}
+          "codeSyntax": {
+            "WEB": "spacing/1",
+            "ANDROID": "spacing/andrid"
+          }
         }
       }
     },
