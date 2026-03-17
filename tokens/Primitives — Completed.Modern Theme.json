@@ -14,20 +14,6 @@
         }
       }
     },
-    "2": {
-      "$type": "number",
-      "$value": 16,
-      "$description": "",
-      "$extensions": {
-        "com.figma": {
-          "hiddenFromPublishing": false,
-          "scopes": [
-            "ALL_SCOPES"
-          ],
-          "codeSyntax": {}
-        }
-      }
-    },
     "3": {
       "$type": "number",
       "$value": 24,
@@ -38,7 +24,11 @@
           "scopes": [
             "ALL_SCOPES"
           ],
-          "codeSyntax": {}
+          "codeSyntax": {
+            "WEB": "spacing/3",
+            "ANDROID": "spacing/3",
+            "iOS": "spacing/3"
+          }
         }
       }
     },
@@ -171,6 +161,20 @@
     "13": {
       "$type": "number",
       "$value": 104,
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "123": {
+      "$type": "number",
+      "$value": 16,
       "$description": "",
       "$extensions": {
         "com.figma": {
